@@ -1,0 +1,11 @@
+{
+A
+1 Boo is [Adj] today
+}
+
+comment
+{
+Adj
+3 happy
+3 perfect
+}
